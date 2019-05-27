@@ -17,9 +17,9 @@
 This is a Java Applet based Game for two players. It's basically a kite game with lots of adventures and fun.
 
 ### Built With
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
+* [Java SE]
+* [Java Applet]
+* [Netbeans]
 
 
 
