@@ -1,9 +1,3 @@
-[![Build Status][build-shield]]()
-[![Contributors][contributors-shield]]()
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
